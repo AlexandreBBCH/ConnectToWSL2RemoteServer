@@ -1,4 +1,6 @@
 # Documentation 
+## Prérequis 
+Démarrer les services apache2 (sudo service apache2 start)
 
 ## 1. 
 Ouvrez l'invite de commandes et tapez `ipconfig` afin de récupérer l'adresse IPv4 Windows (pas celle de WSL).<br>
